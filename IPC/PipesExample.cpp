@@ -1,3 +1,17 @@
+/*
+Code credits - 
+
+https://opensource.com/article/19/4/interprocess-communication-linux-channels
+
+Other important sources - 
+https://opensource.com/article/19/4/interprocess-communication-linux-storage
+https://opensource.com/article/19/4/interprocess-communication-linux-networking
+
+*/
+
+
+
+
 #include <sys/wait.h> // wait
 #include <iostream>
 #include <cstdlib>    // exit functions
